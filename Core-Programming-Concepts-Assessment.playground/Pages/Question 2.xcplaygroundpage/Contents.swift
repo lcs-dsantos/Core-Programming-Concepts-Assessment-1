@@ -24,6 +24,18 @@
  
  */
 // Answer question 2 below
+// We use a let hen it's a constant that never changes
+// And we use a var when is it a variable that can change
+let bookName = livingTheLife
+var copiesSold = 3333
+let author = diego
+let price = 25
+let yearPublished = 2018
+
+
+
+
+
 
 /*:
  ## Now share your understanding
