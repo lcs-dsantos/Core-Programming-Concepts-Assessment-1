@@ -23,6 +23,15 @@
  
  */
 // Answer question 4 below
+let apps = 50
+var hours = 150
+let mostPopularApp = 2048
+let currentDate = 01/01/2018
+print("this phone has \(apps) apps, the most popular app is \(mostPopularApp) he used the phone for \(hours) hours, the day of the research was \(currentDate).")
+
+
+
+
 
 /*:
  ## Now share your understanding
